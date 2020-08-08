@@ -136,12 +136,14 @@
         "Responsive Frameworks",
         "npm",
         "TDD",
+        "Storybook",
+        "Git and Git-based workflows (gitflow)",
         "Cross-browser compatibility (IE6+)",
         "Semantic Versioning and structured release",
         "Static hosting",
         "Performance",
         "Sourcemaps",
-        "Error-reporting (Sentry)"
+        "Cloud Error-reporting (Sentry)"
       ]
     }
   ],
