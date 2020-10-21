@@ -1,0 +1,1 @@
+/Users/mogram/Projects/hack-my-cv/out/latex/awesome-cv.cls
